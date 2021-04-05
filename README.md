@@ -9,5 +9,3 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=001&aid=00122
 
 
 # 요즘 전자기기(핸드폰 등)의 배터리 용량이 늘어남 > 배터리에 관심을 가짐 > 이온전지
-
-# 양자컴퓨터 > 초전도체가 사용됨 > 초전도체
