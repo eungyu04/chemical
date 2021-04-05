@@ -11,7 +11,7 @@ https://horizon.kias.re.kr/13542/
 
 
 
-(배터리)
+(@배터리)
 
 https://blog.naver.com/lyjic/221408587014  # 물리에 쓰기 (전압관련)
 
