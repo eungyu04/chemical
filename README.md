@@ -1,5 +1,3 @@
-# (초전도체)
-https://biz.chosun.com/site/data/html_dir/2020/10/16/2020101603024.html
 # (보조배터리)
 https://post.naver.com/viewer/postView.nhn?volumeNo=25377281&memberNo=40665716&vType=VERTICAL
 # (배터리1)
