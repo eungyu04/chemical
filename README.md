@@ -8,7 +8,7 @@ https://www.sciencetimes.co.kr/news/%eb%b0%b0%ed%84%b0%eb%a6%ac-%ec%84%b1%eb%8a%
 
 (배터리2)
 
-https://blog.naver.com/lyjic/221408587014  # 물리에 쓰기
+https://blog.naver.com/lyjic/221408587014  # 물리에 쓰기 (전압관련)
 
 (생명)
 
