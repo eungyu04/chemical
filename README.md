@@ -10,7 +10,7 @@ https://horizon.kias.re.kr/13542/
 
 http://dongascience.donga.com/news.php?idx=34825
 
-http://aabb.co.kr/cus/cus03.html?page=b_view&s_table=data&aq_id=69&pg=[Overview and Future Concerns for Lithium-Ion Batteries Materials.pdf]
+http://aabb.co.kr/cus/cus03.html?page=b_view&s_table=data&aq_id=69&pg=
 
 (https://github.com/eungyu04/chemical/files/6277915/Overview.and.Future.Concerns.for.Lithium-Ion.Batteries.Materials.pdf)
 
